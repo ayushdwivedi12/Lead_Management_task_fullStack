@@ -42,13 +42,13 @@ Here are a few screenshots of the application in action.
 **1. Lead Capture Form**
 ![Lead Creation Success](https://github.com/ayushdwivedi12/Lead_Management_task_fullStack/blob/main/Screenshot%202025-09-05%20221141.png?raw=true)
 
-**2. Form with Data and Success Message**
+**2. Lead Details Filled in Form**
+![Leads Details Filled]((https://github.com/ayushdwivedi12/Lead_Management_task_fullStack/blob/main/Screenshot%202025-09-05%20221349.png?raw=true))
+
+**3. Form with Data and Success Message**
 ![Lead Creation Success]((https://github.com/ayushdwivedi12/Lead_Management_task_fullStack/blob/main/Screenshot%202025-09-05%20221141.png?raw=true))
 
-**4. Lead Details Filled in Form**
-![Leads Details Filled](https://github.com/ayushdwivedi12/Lead_Management_task_fullStack/blob/main/Screenshot%202025-09-05%20221349.png?raw=true))
-
-**3. Final Leads List**
+**4. Final Leads List**
 ![Leads List Table](./screenshots/Screenshot-2025-09-05-221413.png)
 
 ---
