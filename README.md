@@ -1,15 +1,11 @@
-# Lead Management Task Submission
+# Lead Management Task
 
-This repository contains my submission for the Full Stack Developer role assessment.
-
--   **Scope:** Full Stack (Frontend + Backend)
--   **Time Taken:** Approximately 3 hours
+This is a full-stack lead management application built with the MERN stack (MongoDB, Express.js, React, Node.js). It allows users to add new leads through a form and view all entries in a table.
 
 ---
 
 ## ✅ Core Features Implemented
 
-I focused on building the primary CRUD (Create, Read) functionality as outlined in the task.
 
 -   **Backend:**
     -   A **Node.js/Express.js** server to handle API requests.
@@ -59,9 +55,9 @@ Here are a few screenshots of the application in action.
 ## 🚀 How to Run Locally
 
 ### Prerequisites
-- Node.js
-- npm (or yarn)
-- A running instance of MongoDB (or a MongoDB Atlas connection string)
+- Node.js & npm 
+- A running instance of MongoDB.
+
 
 ### 1. Backend Setup
 ```bash
@@ -74,3 +70,12 @@ npm install
 # Create a .env file and add your MONGO_URI and PORT
 # Example: MONGO_URI=mongodb://localhost:27017/lead-task
 npm start
+```
+
+### 2. Frontend Setup 
+```bash
+#Navigate to the lead-task-fullstack-enhanced
+
+# Install dependencies
+npm install
+npm run dev
