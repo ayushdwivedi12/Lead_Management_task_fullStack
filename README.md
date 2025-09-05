@@ -40,7 +40,7 @@ I focused on building the primary CRUD (Create, Read) functionality as outlined 
 Here are a few screenshots of the application in action.
 
 **1. Lead Capture Form**
-https://github.com/ayushdwivedi12/Lead_Management_task_fullStack/blob/65fccff50d6f908f83a329a00223b058788e10a4/Screenshot%202025-09-05%20221141.png
+(https://github.com/ayushdwivedi12/Lead_Management_task_fullStack/blob/main/Screenshot%202025-09-05%20221141.png?raw=true)
 
 **2. Form with Data and Success Message**
 ![Lead Creation Success](./screenshots/Screenshot-2025-09-05-221250.png)
