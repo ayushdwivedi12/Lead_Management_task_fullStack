@@ -43,7 +43,7 @@ Here are a few screenshots of the application in action.
 ![Lead Creation Success](https://github.com/ayushdwivedi12/Lead_Management_task_fullStack/blob/main/Screenshot%202025-09-05%20221141.png?raw=true)
 
 **2. Form with Data and Success Message**
-![Lead Creation Success](./screenshots/Screenshot-2025-09-05-221250.png)
+![Lead Creation Success]((https://github.com/ayushdwivedi12/Lead_Management_task_fullStack/blob/main/Screenshot%202025-09-05%20221141.png?raw=true))
 
 **3. Final Leads List**
 ![Leads List Table](./screenshots/Screenshot-2025-09-05-221413.png)
