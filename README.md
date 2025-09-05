@@ -52,7 +52,7 @@ Here are a few screenshots of the application in action.
 ![Leads List Table](https://github.com/ayushdwivedi12/Lead_Management_task_fullStack/blob/main/Screenshot%202025-09-05%20221413.png?raw=true)
 
 **5. Backend Working Details on Terminal**
-![Lead Backend Connection Working Terminal Server](https://github.com/ayushdwivedi12/Lead_Management_task_fullStack/blob/main/Screenshot%202025-09-05%20221413.png?raw=true).
+![Lead Backend Connection Working Terminal Server](https://github.com/ayushdwivedi12/Lead_Management_task_fullStack/blob/main/Screenshot%202025-09-05%20221446.png?raw=true)
 
 ---
 
